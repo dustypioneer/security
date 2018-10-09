@@ -26,11 +26,7 @@ github_username:  dustypioneer
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: jekyll-theme-cayman
-=======
-theme: jekyll-theme-cayman
->>>>>>> 2c8c12fd33cb53314e51d72e0e36ff36612e15bf
 plugins:
   - jekyll-feed
 
